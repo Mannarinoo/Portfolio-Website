@@ -1,0 +1,147 @@
+.analysiscard-container {
+    width: 310px;
+    height: 400px;
+    overflow: hidden;
+    box-shadow: 0px 0px 15px -5px;
+    color: rgb(255, 255, 255);
+    background: rgb(15, 15, 15);
+    transition: 0.3;
+    animation:  ease-in;
+    margin: 10px;
+    border-radius: 10px;
+}
+.analysiscard-container:hover {
+    transform: scale(1,1);
+    box-shadow: 0px 0px 15px 0px;
+
+}
+.analysisimage-container img{
+    overflow: hidden;
+    height: 200px;
+    justify-content: center;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+.analysiscard-content {
+    display: grid;
+    justify-content: center;
+    margin: 2rem;
+    margin-top: 0.5rem;
+
+}
+h3,p {
+    display: flex;
+    justify-content: center;
+    margin: 1px;
+    padding: 0;
+}
+.analysiscard-title {
+    display: flex;
+    margin-bottom: 0.5rem;
+    justify-content: center;
+}
+.analysisbtn-container {
+    display: flex;
+    justify-content: center;
+}
+.analysisbtn-1 {
+    padding: 0.5rem;
+    background-color: beige;
+    border: none;
+    transition: 0.2s;
+    margin-bottom: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-radius: 3px;
+}
+.analysisbtn-2 {
+    padding: 0.5rem;
+    background-color: beige;
+    border: none;
+    transition: 0.2s;
+    margin-bottom: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-radius: 3px;
+    margin-left: 10px;
+}
+.analysisbtn-1:hover {
+    background: rgb(59, 121, 255);
+    transform: scale(1,1)
+}
+.analysisbtn-2:hover {
+    background: rgb(59, 121, 255);
+    transform: scale(1,1)
+}
+.analysisbutton-txt{
+    text-transform: uppercase;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-weight: bold;
+}
+.analysiscard-layout {
+    display: flex;
+}
+@media screen and (max-width: 960px) {
+.analysiscard-container {
+    width: 310px;
+    height: 400px;
+    box-shadow: 0px 0px 15px -5px;
+    color: rgb(255, 255, 255);
+    background: rgb(0, 0, 0);
+    transition: 0.3;
+    animation:  ease-in;
+    margin: 10px;
+}
+.analysiscard-container:hover {
+    transform: scale(1,1);
+    box-shadow: 0px 0px 15px 0px;
+
+}
+.analysisimage-container img{
+    overflow: hidden;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.analysiscard-content {
+    margin: 1rem;
+    margin-top: 0.5rem;
+}
+h3,p {
+    margin: 0;
+    padding: 0;
+}
+.analysiscard-title {
+    margin-bottom: 0.5rem;
+}
+.analysisbtn-container {
+    display: flex;
+    justify-content: center;
+}
+.analysisbtn-1 {
+    display: flex;
+    justify-content: center;
+}
+.analysisbtn-2 {
+    display: flex;
+    justify-content: center;
+}
+.analysisbtn-1:hover {
+    background: rgba(0, 128, 255, 0.56);
+    transform: scale(1,1)
+}
+.analysisbtn-2:hover {
+    background: rgba(0, 128, 255, 0.56);
+    transform: scale(1,1)
+}
+.analysisbutton-txt{
+    text-transform: uppercase;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 10px;
+}
+.analysiscard-layout {
+    display: flex;
+}
+  }
