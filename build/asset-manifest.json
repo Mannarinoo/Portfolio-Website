@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.24419947.chunk.css",
+    "main.js": "/static/js/main.93fc7030.chunk.js",
+    "main.js.map": "/static/js/main.93fc7030.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4ba1596e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4ba1596e.js.map",
+    "static/js/2.ea8b2fb1.chunk.js": "/static/js/2.ea8b2fb1.chunk.js",
+    "static/js/2.ea8b2fb1.chunk.js.map": "/static/js/2.ea8b2fb1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.048a9061b9c94c2a4b99a6a027e5327b.js": "/precache-manifest.048a9061b9c94c2a4b99a6a027e5327b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.24419947.chunk.css.map": "/static/css/main.24419947.chunk.css.map",
+    "static/js/2.ea8b2fb1.chunk.js.LICENSE.txt": "/static/js/2.ea8b2fb1.chunk.js.LICENSE.txt",
+    "static/media/BostonCrimeAnalysis.pdf": "/static/media/BostonCrimeAnalysis.cc0364e4.pdf",
+    "static/media/FIFA_Analysis.pdf": "/static/media/FIFA_Analysis.8c488faf.pdf",
+    "static/media/App.css": "/static/media/img-7.66001cf8.jpg",
+    "static/media/JOSEPH_MANNARINO_RESUME.pdf": "/static/media/JOSEPH_MANNARINO_RESUME.f9ba9e13.pdf",
+    "static/media/Logo.PNG": "/static/media/Logo.32406a9d.PNG",
+    "static/media/fifa_card.png": "/static/media/fifa_card.b78f6142.png",
+    "static/media/google_play_store_logo.jpg": "/static/media/google_play_store_logo.cbd62c77.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ba1596e.js",
+    "static/js/2.ea8b2fb1.chunk.js",
+    "static/css/main.24419947.chunk.css",
+    "static/js/main.93fc7030.chunk.js"
+  ]
+}
