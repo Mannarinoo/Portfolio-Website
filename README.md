@@ -16,16 +16,16 @@ You will also see any lint errors in the console.
 
 ## `Main Menu`
 
-![ScreenShot](src\images\Home_Page.png)
+![image description or alt text](https://raw.githubusercontent.com/Mannarinoo/Portfolio-Website/main/src/images/Home_Page.PNG)
 
 ## `Projects`
 
-![ScreenShot](src\images\Projects_Page.png)
+![image description or alt text](https://raw.githubusercontent.com/Mannarinoo/Portfolio-Website/main/src/images/Projects_Page.PNG)
 
 ## `Resume`
 
-![ScreenShot](src\images\Resume_Page.png)
+![image description or alt text](https://raw.githubusercontent.com/Mannarinoo/Portfolio-Website/main/src/images/Resume_Page.PNG)
 
 ## `Contact`
 
-![ScreenShot](src\images\Contact_Page.png)
+![image description or alt text](https://raw.githubusercontent.com/Mannarinoo/Portfolio-Website/main/src/images/Contact_Page.PNG)
